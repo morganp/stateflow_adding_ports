@@ -11,4 +11,5 @@ To add an Input/Output ports to Chart (FSM):
 4) Select data, rename if required.  
 5) Change **Scope** to **Input** or **Output**.  
 
-![](stateflow_adding_ports.png)
+![](stateflow_4_add.png)  
+![](stateflow_5_scope.png)  
